@@ -1,0 +1,14 @@
+{
+    "name": "salma/kontruksi",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "salmahusna",
+            "email": "salmahusna170920@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
